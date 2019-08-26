@@ -40,6 +40,5 @@ var Counters = React.createClass({
             )
     }
 });
-
 var element = React.createElement(Counters);
 ReactDOM.render(element, document.getElementById('app'));
